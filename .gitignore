@@ -1,0 +1,10 @@
+*.xml
+*.pdb
+*.log
+*.mdb
+*.gz
+*.zip
+*.pdb
+*.exe
+*.cache
+*.assets.resS
